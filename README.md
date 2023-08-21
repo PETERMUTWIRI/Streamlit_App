@@ -2,6 +2,12 @@
 
 This endeavor showcases the integration of a machine learning model within a graphical user interface (GUI) using Streamlit. The objective is to fashion an engaging interface for sales forecasting accessible to consumers and stakeholders via Streamlit.This application was developed in conjunction with the Azubi Africa Data Science Training program.
 
+[![python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
+[![MIT licensed](https://img.shields.io/badge/license-mit-blue?style=for-the-badge&logo=appveyor)](./LICENSE)
+![Issues](https://img.shields.io/github/issues/PapiHack/wimlds-demo?style=for-the-badge&logo=appveyor)
+![PR](https://img.shields.io/github/issues-pr/PapiHack/wimlds-demo?style=for-the-badge&logo=appveyor)
+[![Open Source Love png1](https://badges.frapsoft.com/os/v1/open-source.png?v=103)](https://github.com/ellerbrock/open-source-badges/)
+
 ## Prerequisites
 
 Make sure you have the following libraries installed in your Python environment or virtual environment:
@@ -34,23 +40,22 @@ NB: Run the demo app using the following command:
 
 ![run_app](Screenshots/Image5.png)
 
-![run_app](Screenshots/GradioRun.png)
-
 The app will be launched in your default web browser. You can then interact with the interface to make sales predictions based on the input fields.
 
 ## Preview 🔍 🤖
+
+![App Preview](Screenshots/Preview.png)
 
 ## Authors 📖 🧑‍🎓
 
 This project was developed during the Azubi Africa Data Science Training. Below is the details of the initial collaborators of this project with respective articles covering the process of the project and their individual github profiles.
 
-| Name                | Article | Github |
-| ------------------- | ------- | ------ |
-| Isaac Sarpong       |         |        |
-| Israel Anaba Ayamga |         |        |
-| Peter Mutiwri       |         |        |
-| Emmanuel Morkeh     |         |        |
-
+| Name                | Article                                                                                                                                                                      | Github              |
+| ------------------- | ---------------------------------------------------------------------------------------------------------------------------------------------------------------------------- | ------------------- |
+| Isaac Sarpong       |                                                                                                                                                                              |                     |
+| Israel Anaba Ayamga |  |                     |
+| Peter Mutiwri       |  https://medium.com/@mutpeet/predictive-analytics-app-for-grocery-sales-forecasting-b1ea782b2708                                                                                                                                                                           |                     |
+| Emmanuel Morkeh     |                                                                                                                                                                              |                     |
 
 ## Features
 
